@@ -101,16 +101,15 @@ namespace assignment_five
           code = code.ToUpper();
 
           if((code == "A")){
-            cost = PRICE_A
+            cost = PRICE_A * DayStayed
           }else if(code == "C"){
-            cost = PRICE_C
+            cost = PRICE_C * DayStayed
           }else if(code == "N"){
-            cost = DAILY_RATE
+            cost = DAILY_RATE * DayStayed
           }else{
             Console.WriteLine("Something went wrong try again");
           }
 
-          cos
           return cost;
         }
 
