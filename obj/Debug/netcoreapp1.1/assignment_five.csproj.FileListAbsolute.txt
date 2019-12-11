@@ -1,0 +1,8 @@
+C:\Users\trakhak\Desktop\mpls-dog-boarding-price-estimate-calculator-assignment-5-trakhak\bin\Debug\netcoreapp1.1\assignment_five.deps.json
+C:\Users\trakhak\Desktop\mpls-dog-boarding-price-estimate-calculator-assignment-5-trakhak\bin\Debug\netcoreapp1.1\assignment_five.runtimeconfig.json
+C:\Users\trakhak\Desktop\mpls-dog-boarding-price-estimate-calculator-assignment-5-trakhak\bin\Debug\netcoreapp1.1\assignment_five.runtimeconfig.dev.json
+C:\Users\trakhak\Desktop\mpls-dog-boarding-price-estimate-calculator-assignment-5-trakhak\obj\Debug\netcoreapp1.1\assignment_five.AssemblyInfo.cs
+C:\Users\trakhak\Desktop\mpls-dog-boarding-price-estimate-calculator-assignment-5-trakhak\bin\Debug\netcoreapp1.1\assignment_five.dll
+C:\Users\trakhak\Desktop\mpls-dog-boarding-price-estimate-calculator-assignment-5-trakhak\bin\Debug\netcoreapp1.1\assignment_five.pdb
+C:\Users\trakhak\Desktop\mpls-dog-boarding-price-estimate-calculator-assignment-5-trakhak\obj\Debug\netcoreapp1.1\assignment_five.dll
+C:\Users\trakhak\Desktop\mpls-dog-boarding-price-estimate-calculator-assignment-5-trakhak\obj\Debug\netcoreapp1.1\assignment_five.pdb
